@@ -1,0 +1,14 @@
+[
+  {
+    "id": "101",
+    "courseName": "Full Stack Development",
+    "courseCode": "25VA351",
+    "department": "DS"
+  },
+  {
+    "id": "102",
+    "courseName": "DSA",
+    "courseCode": "25VA202",
+    "department": "DS"
+  }
+]

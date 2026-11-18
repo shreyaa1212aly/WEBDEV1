@@ -1,0 +1,12 @@
+{
+  "name": "course-management",
+  "version": "1.0.0",
+  "description": "Course Management Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
